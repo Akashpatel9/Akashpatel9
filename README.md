@@ -22,5 +22,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="45" height="45"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nide/node-original.svg" width="45" height="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" width="45" height="45"/>
 </p>
