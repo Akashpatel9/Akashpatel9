@@ -24,4 +24,4 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashpatel9&show_icons=true&theme=radical)](https://github.com/Akashpatel9/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashpatel9&show_icons=true&theme=dark)](https://github.com/Akashpatel9/github-readme-stats)
