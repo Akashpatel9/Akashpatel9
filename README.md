@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Akash%20Singh%20Patel&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Akash%20Singh%20Patel&fontSize=32" />
 
 ### Hi there 👋
 * 👂 My name is Akash Singh Patel
@@ -31,3 +31,5 @@
 <a href="https://github.com/Akashpatel9/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akashpatel9&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&fontSize=32" />
