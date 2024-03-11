@@ -21,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45"/>
-
-  
 </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashpatel9)](https://github.com/anuraghazra/github-readme-stats)
