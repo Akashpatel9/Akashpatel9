@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Akash%20Singh%20Patel&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Akash%20Singh%20Patel&fontSize=30" />
 
 ### Hi there 👋
 * 👂 My name is Akash Singh Patel
