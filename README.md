@@ -24,4 +24,5 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashpatel9&show_icons=true&theme=transparent)](https://github.com/Akashpatel9/github-readme-stats)
+[![Akash GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Akashpatel9&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Akashpatel9/github-readme-stats#gh-dark-mode-only)
+[![Akash GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Akashpatel9&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Akashpatel9/github-readme-stats#gh-light-mode-only)
