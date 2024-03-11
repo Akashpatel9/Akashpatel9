@@ -23,11 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45"/>
 </p>
 
-
-[![Akash GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Akashpatel9&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Akashpatel9/github-readme-stats#gh-dark-mode-only)
-[![Akash GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Akashpatel9&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Akashpatel9/github-readme-stats#gh-light-mode-only)
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
