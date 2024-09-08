@@ -132,12 +132,10 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 </p>
 
 
-[![Akash Singh Patel GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Akashpatel9&theme=github-compact)](https://github.com/Akashpatel9/github-readme-activity-graph)
-
 ## 📧 Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/prince-singh-314a65187/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/akash-singh-patel-6168b4217/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
