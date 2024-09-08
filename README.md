@@ -64,26 +64,14 @@
 </b></h4>   
 
 <p align="center"> 
-    <a href="https://www.youtube.com/@PrinceSinghCSE" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Prince Singh" />
- </a> 
- <a href="https://www.linkedin.com/in/prince-singh-314a65187/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Prince Singh"/>
+ <a href="https://www.linkedin.com/in/akash-singh-patel-6168b4217/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Akash Singh Patel"/>
  </a>
- <a href="https://github.com/PrinceSinghhub" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PrinceSinghhub" />
+ <a href="https://github.com/Akashpatel9" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Akashpatelhub" />
  </a>
- <a href="https://twitter.com/NowPrinceSingh" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/princesinghcse" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Prince Singh" />
- </a> 
-    <a href="https://topmate.io/itsprincesingh" target="blank">
-  <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
- </a>
-   <a href="mailto:princesingh.cse.2020@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Prince Singh" />
+   <a href="mailto:akashsp9893@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Akash Singh Patel" />
  </a> 
 </p>
 
