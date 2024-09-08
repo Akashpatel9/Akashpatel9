@@ -22,7 +22,7 @@
 - 🚀 Passionate About Crafting Efficient Code 
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**, **Devops**, **Web 3**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
+- 📔 Live [**MyResume**]()
 - 🔥 [**My DSA and Development Skills**](https://codolio.com/profile/NBzVNe2R)
 - ⚡ For Fun **Games, Rosting, Mems, Songs**
 
