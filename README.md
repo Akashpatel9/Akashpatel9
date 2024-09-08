@@ -46,7 +46,7 @@
 ## ⭐ Summarized My All Achievements 🎉
 
 | Achievement 🥇 |
-|------------------------------------|----------------------------------------|
+|------------------------------------|
 | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
 | ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
 | ⭐ 53K+ Followers on LinkedIn |
