@@ -45,12 +45,12 @@
 
 ## ⭐ Summarized My All Achievements 🎉
 
-| 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
+| Achievement 🥇 |
 |------------------------------------|----------------------------------------|
-| 💥 800DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
-| 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
-| 💥 700DaysOfCode+ on @CodeStudio | ⭐ 53K+ Followers on LinkedIn |
-| 💥 600DaysOfCode+ on @GeeksForGeeks | ⭐ 10M+ Views on LinkedIn |
+| ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
+| ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
+| ⭐ 53K+ Followers on LinkedIn |
+| ⭐ 10M+ Views on LinkedIn |
 
 I'm proud of my continuous growth and learning in the coding world. I am looking forward to more challenges and achievements ahead! 💻🚀
 
