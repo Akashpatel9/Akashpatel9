@@ -47,10 +47,10 @@
 
 | Achievement 🥇 |
 |------------------------------------|
-| ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
-| ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
-| ⭐ 53K+ Followers on LinkedIn |
-| ⭐ 10M+ Views on LinkedIn |
+| ⭐ Awarded 1st place in the Java Coding Marathon organized by Sheryians Coding School, outperforming a
+competitive field of 300+ participants |
+| ⭐ Solved over 1000+ problems across platforms like LeetCode, GeeksForGeeks, codingninjas etc... |
+| ⭐ Achieved 5* badges on HackerRank for Java and JavaScript. |
 
 I'm proud of my continuous growth and learning in the coding world. I am looking forward to more challenges and achievements ahead! 💻🚀
 
