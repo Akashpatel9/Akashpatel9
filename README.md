@@ -18,7 +18,7 @@
 
 ## 🙋‍♂️ About Me
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+- 👨‍💻 Love to learn new technologies and explore new areas.
 - 🚀 Passionate About Crafting Efficient Code 
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**, **Devops**, **Web 3**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
@@ -47,10 +47,9 @@
 
 | Achievement 🥇 |
 |------------------------------------|
-| ⭐ Awarded 1st place in the Java Coding Marathon organized by Sheryians Coding School, outperforming a
-competitive field of 300+ participants |
-| ⭐ Solved over 1000+ problems across platforms like LeetCode, GeeksForGeeks, codingninjas etc... |
-| ⭐ Achieved 5* badges on HackerRank for Java and JavaScript. |
+| ⭐ 1st place in the Java Coding Marathon organized by Sheryians Coding School over 300+ participants |
+| ⭐ Solved over 1000+ problems across platforms like LeetCode, GeeksForGeeks, CodeChef etc... |
+| ⭐ Achieved 5* badges on HackerRank for Java, JavaScript, Problem Solving, C++|
 
 I'm proud of my continuous growth and learning in the coding world. I am looking forward to more challenges and achievements ahead! 💻🚀
 
@@ -106,16 +105,16 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 
 <br>
 <p align="center">
-    <a href="https://https://github.com/PrinceSinghhub/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prince Singh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceSinghhub&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://https://github.com/Akashpatel9/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akash Singh Patel streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashpatel9&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  
 ## 📊 My Github Stats
 
    <br/>
-<a href="https://github.com/PrinceSinghhub/github-readme-stats"><img alt="Prince Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=PrinceSinghhub&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PrinceSinghhub/github-readme-stats"><img alt="Prince Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSinghhub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Akashpatel9/github-readme-stats"><img alt="Akash Singh Patel Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akashpatel9&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Akashpatel9/github-readme-stats"><img alt="Prince Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashpatel9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
