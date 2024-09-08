@@ -114,7 +114,7 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 
    <br/>
 <a href="https://github.com/Akashpatel9/github-readme-stats"><img alt="Akash Singh Patel Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akashpatel9&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Akashpatel9/github-readme-stats"><img alt="Prince Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashpatel9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Akashpatel9/github-readme-stats"><img alt="Akash Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashpatel9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -132,7 +132,7 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 </p>
 
 
-[![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PrinceSinghHub&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph)
+[![Akash Singh Patel GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Akashpatel9&theme=github-compact)](https://github.com/Akashpatel9/github-readme-activity-graph)
 
 ## 📧 Connect with me:
 <p align="left">
@@ -146,6 +146,6 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=PrinceSinghhub">
+    <img src="https://komarev.com/ghpvc/?username=Akashpatel9">
 </a>
-<a href="https://github.com/PrinceSinghhub?tab=followers"><img src="https://img.shields.io/github/followers/PrinceSinghhub?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Akashpatel9?tab=followers"><img src="https://img.shields.io/github/followers/Akashpatel9?label=Followers&style=social" alt="GitHub Badge"></a>
