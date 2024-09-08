@@ -32,8 +32,8 @@
 <p align="left"> 
  <a href="https://leetcode.com/u/Akash_singh_patel/" target="_blank"> <img src="lc.png" height="40px" width="40px"> </a>
  <a href="https://www.geeksforgeeks.org/user/akashpatelsingh9893693091/" target="_blank"> <img src="gfg.png" height="40px" width="40px"> </a>
-<img src="ib.png" height="40px" width="40px">
-<img src="cn.png" height="40px" width="40px">
+ <a href="https://www.interviewbit.com/profile/akash-singh-patel/" target="_blank"> <img src="ib.png" height="40px" width="40px"> </a>
+ <a href="https://www.naukri.com/code360/profile/09a79e62-06e9-442d-a5e8-32b5c93055e0" target="_blank"> <img src="cn.png" height="40px" width="40px"> </a>
  <a href="https://www.hackerrank.com/profile/akashpatelsingh1" target="_blank"> <img src="hr.png" height="40px" width="40px"> </a>
  <a href="https://www.codechef.com/users/akashpatel_123" target="_blank"> <img src="cc.png" height="40px" width="40px"> </a>
  <a href="https://codeforces.com/profile/akashpatel98" target="_blank"> <img src="cf.png" height="40px" width="40px"> </a>
