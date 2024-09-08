@@ -1,59 +1,3 @@
-<!--
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&fontSize=32" />
-
-### Hi there 👋
-* 👂 My name is Akash Singh Patel
-* 🌱 I’m currently learning ReactNative
-* ❤️ I love Coding
-
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"  width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="45" height="45"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45"/>
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Akashpatel9&theme=shadow-blue&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
-<a href="https://github.com/Akashpatel9/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Akashpatel9&theme=transparent" />
-</a>
-<a href="https://github.com/Akashpatel9/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akashpatel9&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&fontSize=32" />
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Akash Singh Patel</b></h1>
 <h2 align="center"><b>I'm a Software Engineer</b></h2> 
 </b></h4>   
@@ -73,22 +17,14 @@
    
 
 ## 🙋‍♂️ About Me
-<a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 📚 Founder @DSAwithPrinceSingh
-- 👁‍🗨 Open Source Contributor  
-- 👨‍🏫 Mentor on @Topmate and @Propeers
 - 🚀 Passionate About Crafting Efficient Code 
-- 📘 I’m Currently Studying **Devops**
-  <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
+- 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**, **Devops**, **Web 3**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
-- 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh)
-- 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
-- 📞 Book Your 1:1 Call with Me For **DSA & Development & Placement & Career Guidance** [**Link**](https://topmate.io/itsprincesingh)
-- ⚡ For Fun **Games, Rosting, Mems, HipHop**
-<!-- - 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/) -->
+- 🔥 [**My DSA and Development Skills**](https://codolio.com/profile/NBzVNe2R)
+- ⚡ For Fun **Games, Rosting, Mems, Songs**
 
 
 ## ❤️ I'm Code on (DSA)
