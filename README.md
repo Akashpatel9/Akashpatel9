@@ -42,91 +42,15 @@
 
 </p> 
 
-## All DSA Badges @LeetCode
-
-<img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-annual.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-12.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-11.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-09.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-08.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-07.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-06.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-05.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-04.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-03.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-02.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-01.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-12.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-11.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-10.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-09.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-08.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-07.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-06.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-05.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-04.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-03.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-02.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/LC-75.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/DS_II.png" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%85%A5%E9%97%A8.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/algorithm_II.png" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/DP_I.png" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/DS_I.png" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" width="40px"></img>
 
 ## ⭐ Summarized My All Achievements 🎉
 
 | 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
 |------------------------------------|----------------------------------------|
-| 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
 | 💥 800DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
 | 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
 | 💥 700DaysOfCode+ on @CodeStudio | ⭐ 53K+ Followers on LinkedIn |
 | 💥 600DaysOfCode+ on @GeeksForGeeks | ⭐ 10M+ Views on LinkedIn |
-
-## DSA 🏆 Achievements
-
-🚀 Excited to Share My Coding Journey and Accomplishments! 🚀
-
-I'm thrilled to showcase my dedication and passion for problem-solving in the world of coding. Here's a snapshot of my achievements across various coding platforms and <b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms </b>
-
-**LeetCode and GeeksForGeeks 🏆**
-- Profile 1: 1100+ problems solved, 3.5⭐ with a max rating of 1464 and 40+ Badges 🥇.
-- Annual Awards 2022 and 2023 on LeetCode and Include Top 0.4% of the LeetCoders 🌐.
-- Profile 2: 400+ problems solved, 2⭐ with a max rating of 1876 and 10+Badges 🥇 with Knight 👑 Tag and Include in Top 5% Code in the World 🌎.
-- Annual Award 2023 and Include Top 4.2% of the LeetCoders 🌐.
-- GeeksForGeeks: 1300+ problems solved, Global Rank 100 and Monthly Rank 99 with the Score of 4000+, and Instutie Rank 1🔥.
-
-**CodeStudio & InterviewBit & HackerRank & HackerEarth 🏆**
-- CodeStudio: 2000+ problems solved with 100000+ Coding Score, including in the top 0.5% 🌟.
-- InterviewBit: 560+ problems solved, Global Rank 13, and a 6⭐ in Problem Solving 🌐.
-- HackerRank: 300+ problems solved, with a coding score of 119000+ 🚀.
-- HackerEarth: 5⭐ in Python, 5⭐ in Java, and 5⭐ in Days of Code 🌈.
-
-**CodeChef & CodeForces & work@Tech 🏆**
-- CodeChef: 2⭐ coder with a max rating of 1595 and 80+ problems solved.
-- CodeForces: Max rating of 1308, Pupil CodeForces, and a top global rank of 202 🌎.
-- work@Tech: 1510 score, 999 rank, and 40 problems solved, with the best global rank under 1K 🚀.
 
 I'm proud of my continuous growth and learning in the coding world. I am looking forward to more challenges and achievements ahead! 💻🚀
 
@@ -147,57 +71,17 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![API](https://img.shields.io/badge/API-008000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code Professional](https://img.shields.io/badge/VS_Code_Professional-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<!-- ## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/python--v1.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/css3.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/git.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/ios-filled/100/000000/github.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/pycharm.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/intellij-idea.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/visual-studio--v2.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/linux--v1.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/windows-10.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/ios-filled/100/000000/django.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png"/> </a>   
-    <a href="#"> <img src="https://img.icons8.com/color/96/mongodb.png"/> </a>  
-    <a href="#"> <img src="https://img.icons8.com/ios/96/express-js.png"/> </a>  
-    <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
-</p> -->
 
 
 ## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
