@@ -15,7 +15,7 @@
  </a> 
 </p>
 
-   
+   <be></br>
 
 ## 🙋‍♂️ About Me
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️
@@ -53,6 +53,7 @@
 
 I'm proud of my continuous growth and learning in the coding world. I am looking forward to more challenges and achievements ahead! 💻🚀
 
+<be></br>
 
 ## 💻Use To Code
 
@@ -83,7 +84,7 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 
-
+<be></br>
 
 <!--
 
@@ -110,37 +111,29 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 -->
 
 
-
-
-
-<br>
+<be></br>
 <p align="center">
     <a href="https://https://github.com/Akashpatel9/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akash Singh Patel streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashpatel9&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
- 
+
+ <be></br>
 ## 📊 My Github Stats
 
-   <br/>
 <a href="https://github.com/Akashpatel9/github-readme-stats"><img alt="Akash Singh Patel Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akashpatel9&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Akashpatel9/github-readme-stats"><img alt="Akash Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashpatel9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+
+
+  <be></br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-
-
-<br/>
-<br/>
-
+<be></br>
 ## 📈 Graph
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
+<be></br>
 
 ## 📧 Connect with me:
 <p align="left">
@@ -151,7 +144,7 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
+<be></br>
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Akashpatel9">
