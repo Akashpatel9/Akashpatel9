@@ -156,5 +156,5 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 </a>
 <a href="https://github.com/Akashpatel9?tab=followers"><img src="https://img.shields.io/github/followers/Akashpatel9?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<br/>
+<be><br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akashpatel9&theme=onedark)](https://github.com/Akashpatel9/github-profile-trophy)
