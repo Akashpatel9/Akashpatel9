@@ -28,6 +28,7 @@
 - ⚡ For Fun **Games, Rosting, Mems, Songs**
 
 
+<be></br>
 ## ❤️ I'm Code on (DSA)
 
 <p align="left"> 
@@ -40,6 +41,7 @@
  <a href="https://codeforces.com/profile/akashpatel98" target="_blank"> <img src="cf.png" height="40px" width="40px"> </a>
 </p> 
 
+<be></br>
 
 ## ⭐ Summarized My All Achievements 🎉
 
